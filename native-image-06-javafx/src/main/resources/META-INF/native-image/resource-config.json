@@ -1,0 +1,57 @@
+{
+  "bundles":[
+    {
+      "locales":[
+        "",
+        "zh-CN"
+      ],
+      "name":"com.sun.javafx.tk.quantum.QuantumMessagesBundle"
+    },
+    {
+      "locales":[
+        "",
+        "zh-CN"
+      ],
+      "name":"com/sun/glass/ui/win/themes"
+    },
+    {
+      "locales":[
+        "",
+        "zh-CN"
+      ],
+      "name":"com/sun/javafx/scene/control/skin/modena/modena.css"
+    }
+  ],
+  "resources":{
+    "includes":[
+      {
+        "pattern":".*\\.properties$"
+      },
+      {
+        "pattern":".*\\.css"
+      },
+      {
+        "pattern":".*\\.png"
+      },
+      {"pattern": ".*\\.png$"},
+      {"pattern": ".*\\.jpg$"},
+      {"pattern": ".*\\.jpeg$"},
+      {"pattern": ".*\\.gif$"},
+      {"pattern": ".*\\.bmp$"},
+      {"pattern": ".*\\.ttf$"},
+      {"pattern": ".*\\.raw$"},
+      {"pattern": ".*\\.xml$"},
+      {"pattern": ".*\\.fxml$"},
+      {"pattern": ".*\\.css$"},
+      {"pattern": ".*\\.gls$"},
+      {"pattern": ".*\\.json$"},
+      {"pattern": ".*\\.dat$"},
+      {"pattern": ".*\\.license$"},
+      {"pattern": ".*\\.frag$"},
+      {"pattern": ".*\\.vert$"},
+      {"pattern": ".*\\.obj$"},
+      {"pattern": ".*\\.mtl$"},
+      {"pattern": ".*\\.js$"}
+    ]
+  }
+}
